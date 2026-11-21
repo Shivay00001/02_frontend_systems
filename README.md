@@ -1,5 +1,7 @@
 # 02_frontend_systems - Next.js Admin Dashboard
 
+Built by [VisionQuantech](https://visionquantech.com) — AI agents, apps & tools for small businesses.
+
 > Production-grade admin dashboard demonstrating modern React patterns, TypeScript, and enterprise UI architecture.
 
 ## 🎯 Overview
